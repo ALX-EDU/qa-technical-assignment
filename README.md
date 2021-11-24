@@ -1,6 +1,6 @@
 Thank you for taking the time to do the TheRoom QA Technical Assignment. 
 
-Please read both API-Task.md and UI-Task.md and follow the instructions within.
+Please read both **API-Task.md** and **UI-Task.md** and follow the instructions within.
 
 Please do not spend too much time on these exercises, we're assessing quality over quanitty.
 
