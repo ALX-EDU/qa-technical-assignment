@@ -17,4 +17,4 @@ You might be required to walk future interviewers through your code, and pair on
 
 ### What happens next? 
 Our team will review your submission. If it meets the needs of our current available positions, you will be invited for a final face-to-face interview. 
-At this stage, we will have a friendly chat in order to understand how you approached the problem. You will also have the chan
+At this stage, we will have a friendly chat in order to understand how you approached the problem.
